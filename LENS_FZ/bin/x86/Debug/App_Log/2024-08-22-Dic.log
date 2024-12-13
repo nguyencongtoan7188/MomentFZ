@@ -1,0 +1,4 @@
+2024-08-22 13:44:39 Error An error occurred in the serial port reading data：System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at LENS_FZ.Frm_Main.serialPortQR_DataReceived(Object sender, SerialDataReceivedEventArgs e) in G:\LENS_FZ\LENS_FZ\GUI\Frm_Main.cs:line 60

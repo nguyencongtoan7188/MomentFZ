@@ -1,0 +1,10 @@
+G:\LENS_FZ\LENS_FZ\bin\Debug\LENS_FZ.exe
+G:\LENS_FZ\LENS_FZ\bin\Debug\LENS_FZ.pdb
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.csproj.AssemblyReference.cache
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.Frm_Main.resources
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.GUI.Frm_Query.resources
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.Properties.Resources.resources
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.csproj.GenerateResource.cache
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.csproj.CoreCompileInputs.cache
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.exe
+G:\LENS_FZ\LENS_FZ\obj\Debug\LENS_FZ.pdb
